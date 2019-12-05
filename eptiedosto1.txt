@@ -1,0 +1,4 @@
+Tässä on testitiedosto2 githubiin
+ep hakemiston alla oleva
+ja toinen rivi sekkä
+jotain muuta
